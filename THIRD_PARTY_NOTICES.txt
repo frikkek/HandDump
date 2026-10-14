@@ -1,0 +1,36 @@
+Componentes de terceiros distribuídos com o HandDump
+=============================================================
+
+Python 3.12 — interpretador embutido no executável (PyInstaller)
+  Licença: PSF License — https://docs.python.org/3/license.html
+  Código-fonte: https://www.python.org/
+
+PyInstaller (empacotamento do executável)
+  Licença: GPL-2.0 com exceção para o bootloader, que permite distribuir programas empacotados
+  sob qualquer licença — https://pyinstaller.org/en/stable/license.html
+  Código-fonte: https://github.com/pyinstaller/pyinstaller
+
+Qt for Python (PySide6-Essentials, shiboken6) 6.12.0
+  Licença: LGPL-3.0. As bibliotecas Qt são DLLs separadas (pasta _internal na versão em pasta)
+  e podem ser substituídas pelo usuário por outra versão compatível.
+  Código-fonte: https://code.qt.io/cgit/pyside/pyside-setup.git
+
+yt-dlp
+  Licença: The Unlicense — https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE
+  Código-fonte: https://github.com/yt-dlp/yt-dlp
+
+yt-dlp-ejs 0.8.0
+  Licença: Unlicense AND MIT AND ISC
+  Código-fonte: https://github.com/yt-dlp/ejs
+
+Deno (tools\deno\deno.exe) — runtime JavaScript usado pelo yt-dlp no YouTube
+  Licença: MIT
+  Código-fonte: https://github.com/denoland/deno
+
+FFmpeg 9.0 (tools\ffmpeg) — build "ffmpeg-n9.0-latest-win64-lgpl-shared" de BtbN/FFmpeg-Builds
+  Licença: LGPL-3.0-or-later nesta build (veja LICENSES\FFmpeg-LICENSE.txt). Executado como
+  programa separado; as DLLs podem ser substituídas por outra build compatível.
+  Código-fonte: https://github.com/BtbN/FFmpeg-Builds e https://ffmpeg.org/download.html
+
+NSIS (instalador)
+  Licença: zlib/libpng — https://nsis.sourceforge.io/License

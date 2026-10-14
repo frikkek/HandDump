@@ -1,0 +1,93 @@
+# HandDump
+
+**Português** · [English](#english)
+
+Aplicativo para Windows 10/11 que baixa vídeo, áudio, capas e metadados direto da fonte, sem
+recompressão e sem contornar DRM, login ou paywall.
+
+![HandDump](imagens/tela-pt.png)
+
+## Download
+
+Baixe a versão mais recente em **[Releases](../../releases/latest)**:
+
+| Arquivo | Para quem |
+|---|---|
+| `HandDump-<versão>-Setup.exe` | **Instalador.** Cria atalhos no Menu Iniciar e um desinstalador. |
+| `HandDump-<versão>-Portatil.exe` | **Portátil.** Um único arquivo, não precisa instalar. |
+| `HandDump-<versão>-Portatil.zip` | O portátil com o LEIA-ME e as licenças. |
+| `SHA256SUMS.txt` | Somas para conferir se os arquivos chegaram íntegros. |
+
+O Windows SmartScreen pode avisar porque o executável não tem assinatura digital: clique em
+**Mais informações → Executar assim mesmo**.
+
+## O que ele faz
+
+- **YouTube e YouTube Music:** vídeo em todas as resoluções oferecidas (MP4 sem recompressão),
+  áudio (MP3 320, M4A, FLAC, WAV ou original), capa, playlists e álbuns.
+- **SoundCloud, Instagram, X/Twitter e Facebook:** vídeos, áudio, fotos e carrosséis públicos.
+- **Spotify e Apple Music:** metadados, capas e listas de faixas (CSV/JSON). O áudio desses
+  serviços tem DRM e não é baixado deles. Cada faixa pode ser procurada no YouTube Music (pelo
+  ISRC e por artista e título), com os metadados do catálogo gravados no arquivo.
+- Fila com o progresso de cada item, histórico, biblioteca, tema escuro/claro, português e inglês,
+  e opção de continuar em segundo plano na bandeja do sistema.
+- Conexões só por HTTPS, com certificado verificado, encerradas ao fim de cada download.
+
+## Atualizar
+
+- **Instalado:** execute o `Setup.exe` da versão nova. Ele atualiza no lugar e mantém
+  configurações e histórico.
+- **Portátil:** troque o `.exe` antigo pelo novo na mesma pasta. A pasta `HandDump-dados`
+  (configurações e histórico) continua valendo.
+
+## Avisos
+
+Use apenas com conteúdo que você tem direito de baixar. Os componentes de terceiros e suas
+licenças estão em [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
+
+---
+
+## English
+
+Windows 10/11 app that downloads video, audio, covers and metadata straight from the source,
+without re-encoding and without bypassing DRM, logins or paywalls.
+
+![HandDump](imagens/screen-en.png)
+
+### Download
+
+Get the latest version from **[Releases](../../releases/latest)**:
+
+| File | What it is |
+|---|---|
+| `HandDump-<version>-Setup.exe` | **Installer.** Adds Start menu shortcuts and an uninstaller. |
+| `HandDump-<version>-Portatil.exe` | **Portable.** A single file, no installation needed. |
+| `HandDump-<version>-Portatil.zip` | The portable app with the readme and licenses. |
+| `SHA256SUMS.txt` | Checksums to verify the downloads. |
+
+Windows SmartScreen may warn you because the executable is not digitally signed: click
+**More info → Run anyway**.
+
+### Features
+
+- **YouTube and YouTube Music:** video at every resolution offered (MP4 without re-encoding),
+  audio (MP3 320, M4A, FLAC, WAV or original), cover art, playlists and albums.
+- **SoundCloud, Instagram, X/Twitter and Facebook:** public videos, audio, photos and carousels.
+- **Spotify and Apple Music:** metadata, covers and track lists (CSV/JSON). Their audio is
+  DRM-protected and is not downloaded from them. Each track can be matched on YouTube Music (by
+  ISRC and by artist and title), with the catalog metadata written to the file.
+- Queue with per-item progress, history, library, dark/light theme, Portuguese and English, and
+  an option to keep running in the system tray.
+- HTTPS-only connections with verified certificates, closed when each download ends.
+
+### Updating
+
+- **Installed:** run the new version's `Setup.exe`. It updates in place and keeps your settings
+  and history.
+- **Portable:** replace the old `.exe` with the new one in the same folder. The `HandDump-dados`
+  folder (settings and history) keeps working.
+
+### Notice
+
+Only use it with content you are allowed to download. Third-party components and their
+licenses are listed in [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
