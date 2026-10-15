@@ -29,12 +29,15 @@ O Windows SmartScreen pode avisar porque o executável não tem assinatura digit
 - **Spotify e Apple Music:** metadados, capas e listas de faixas (CSV/JSON). O áudio desses
   serviços tem DRM e não é baixado deles. Cada faixa pode ser procurada no YouTube Music (pelo
   ISRC e por artista e título), com os metadados do catálogo gravados no arquivo.
-- Fila com o progresso de cada item, histórico, biblioteca, tema escuro/claro, português e inglês,
-  e opção de continuar em segundo plano na bandeja do sistema.
+- Tela simples: cole o link e escolha Vídeo, Música ou Capa com um clique (a tela completa
+  continua disponível). Playlists com milhares de itens, cada um com seu progresso.
+- Histórico, biblioteca, tema escuro/claro, português e inglês, segundo plano na bandeja do
+  sistema e aviso de atualizações (o app se atualiza sozinho, com verificação SHA-256).
 - Conexões só por HTTPS, com certificado verificado, encerradas ao fim de cada download.
 
 ## Atualizar
 
+- **Automático:** o app avisa quando há versão nova e se atualiza sozinho.
 - **Instalado:** execute o `Setup.exe` da versão nova. Ele atualiza no lugar e mantém
   configurações e histórico.
 - **Portátil:** troque o `.exe` antigo pelo novo na mesma pasta. A pasta `HandDump-dados`
@@ -76,12 +79,15 @@ Windows SmartScreen may warn you because the executable is not digitally signed:
 - **Spotify and Apple Music:** metadata, covers and track lists (CSV/JSON). Their audio is
   DRM-protected and is not downloaded from them. Each track can be matched on YouTube Music (by
   ISRC and by artist and title), with the catalog metadata written to the file.
-- Queue with per-item progress, history, library, dark/light theme, Portuguese and English, and
-  an option to keep running in the system tray.
+- Simple screen: paste the link and choose Video, Music or Cover with one click (the full screen
+  is still available). Playlists with thousands of items, each with its own progress.
+- History, library, dark/light theme, Portuguese and English, system tray mode and update
+  notifications (the app updates itself, with SHA-256 verification).
 - HTTPS-only connections with verified certificates, closed when each download ends.
 
 ### Updating
 
+- **Automatic:** the app tells you when a new version is out and updates itself.
 - **Installed:** run the new version's `Setup.exe`. It updates in place and keeps your settings
   and history.
 - **Portable:** replace the old `.exe` with the new one in the same folder. The `HandDump-dados`
