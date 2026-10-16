@@ -25,7 +25,8 @@ O Windows SmartScreen pode avisar porque o executável não tem assinatura digit
 
 - **YouTube e YouTube Music:** vídeo em todas as resoluções oferecidas (MP4 sem recompressão),
   áudio (MP3 320, M4A, FLAC, WAV ou original), capa, playlists e álbuns.
-- **SoundCloud, Instagram, X/Twitter e Facebook:** vídeos, áudio, fotos e carrosséis públicos.
+- **SoundCloud, Instagram, X/Twitter e Facebook:** vídeos, áudio e carrosséis públicos; fotos das
+  publicações em resolução original e GIFs salvos como GIF animado.
 - **Spotify e Apple Music:** metadados, capas e listas de faixas (CSV/JSON). O áudio desses
   serviços tem DRM e não é baixado deles. Cada faixa pode ser procurada no YouTube Music (pelo
   ISRC e por artista e título), com os metadados do catálogo gravados no arquivo.
@@ -75,7 +76,8 @@ Windows SmartScreen may warn you because the executable is not digitally signed:
 
 - **YouTube and YouTube Music:** video at every resolution offered (MP4 without re-encoding),
   audio (MP3 320, M4A, FLAC, WAV or original), cover art, playlists and albums.
-- **SoundCloud, Instagram, X/Twitter and Facebook:** public videos, audio, photos and carousels.
+- **SoundCloud, Instagram, X/Twitter and Facebook:** public videos, audio and carousels; post photos
+  at original resolution and GIFs saved as real animated GIFs.
 - **Spotify and Apple Music:** metadata, covers and track lists (CSV/JSON). Their audio is
   DRM-protected and is not downloaded from them. Each track can be matched on YouTube Music (by
   ISRC and by artist and title), with the catalog metadata written to the file.
