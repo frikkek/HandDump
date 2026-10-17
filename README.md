@@ -32,6 +32,7 @@ O Windows SmartScreen pode avisar porque o executável não tem assinatura digit
   ISRC e por artista e título), com os metadados do catálogo gravados no arquivo.
 - Tela simples: cole o link e escolha Vídeo, Música ou Capa com um clique (a tela completa
   continua disponível). Playlists com milhares de itens, cada um com seu progresso.
+- Baixe só um trecho (início e fim em horas, minutos e segundos), com corte exato.
 - Histórico, biblioteca, tema escuro/claro, português e inglês, segundo plano na bandeja do
   sistema e aviso de atualizações (o app se atualiza sozinho, com verificação SHA-256).
 - Conexões só por HTTPS, com certificado verificado, encerradas ao fim de cada download.
@@ -83,6 +84,7 @@ Windows SmartScreen may warn you because the executable is not digitally signed:
   ISRC and by artist and title), with the catalog metadata written to the file.
 - Simple screen: paste the link and choose Video, Music or Cover with one click (the full screen
   is still available). Playlists with thousands of items, each with its own progress.
+- Download just a part (start and end in hours, minutes and seconds), with an exact cut.
 - History, library, dark/light theme, Portuguese and English, system tray mode and update
   notifications (the app updates itself, with SHA-256 verification).
 - HTTPS-only connections with verified certificates, closed when each download ends.
