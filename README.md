@@ -35,6 +35,9 @@ O Windows SmartScreen pode avisar porque o executável não tem assinatura digit
 - Tela simples: cole o link e escolha Vídeo, Música ou Capa com um clique (a tela completa
   continua disponível). Playlists com milhares de itens, cada um com seu progresso.
 - Baixe só um trecho (início e fim em horas, minutos e segundos), com corte exato.
+- **Converter:** áudio (MP3, M4A, OGG, Opus, FLAC, WAV), vídeo (MP4, MKV, WebM, MOV, AVI, GIF) e
+  imagem (PNG, JPG, WebP, ICO, GIF, BMP), inclusive MP4 para MP3 e MP3 para MP4 com a capa na tela.
+- **Editar metadados:** todos os campos, a letra e a capa de músicas e vídeos, sem recompressão.
 - Letras nas músicas (opcional), do LRCLIB: gravadas no arquivo e, se quiser, num `.lrc`
   sincronizado ao lado. Só são aceitas quando artista e duração conferem.
 - Histórico, biblioteca, tema escuro/claro, português e inglês, segundo plano na bandeja do
@@ -91,6 +94,9 @@ Windows SmartScreen may warn you because the executable is not digitally signed:
 - Simple screen: paste the link and choose Video, Music or Cover with one click (the full screen
   is still available). Playlists with thousands of items, each with its own progress.
 - Download just a part (start and end in hours, minutes and seconds), with an exact cut.
+- **Converter:** audio (MP3, M4A, OGG, Opus, FLAC, WAV), video (MP4, MKV, WebM, MOV, AVI, GIF) and
+  images (PNG, JPG, WebP, ICO, GIF, BMP), including MP4 to MP3 and MP3 to MP4 with the cover on screen.
+- **Edit metadata:** every field, lyrics and the cover of songs and videos, without re-encoding.
 - Song lyrics (optional) from LRCLIB: written to the file and, if you like, to a synced `.lrc`
   next to it. Only used when the artist and duration match.
 - History, library, dark/light theme, Portuguese and English, system tray mode and update
