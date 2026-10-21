@@ -23,6 +23,15 @@ yt-dlp-ejs 0.8.0
   Licença: Unlicense AND MIT AND ISC
   Código-fonte: https://github.com/yt-dlp/ejs
 
+curl_cffi 0.16.0 — conexões com a impressão TLS de um navegador, usadas pelo yt-dlp no TikTok
+  Licença: MIT — https://github.com/lexiforest/curl_cffi/blob/main/LICENSE
+  Inclui o curl-impersonate (MIT), a libcurl (licença curl), a BoringSSL (OpenSSL/ISC), a nghttp2
+  (MIT), a Brotli (MIT) e a zstd (BSD).
+  Código-fonte: https://github.com/lexiforest/curl_cffi e https://github.com/lexiforest/curl-impersonate
+
+cffi 2.1.1 (MIT) e certifi 2026.7.22 (MPL-2.0, certificados raiz da Mozilla)
+  Código-fonte: https://github.com/python-cffi/cffi e https://github.com/certifi/python-certifi
+
 Deno (tools\deno\deno.exe) — runtime JavaScript usado pelo yt-dlp no YouTube
   Licença: MIT
   Código-fonte: https://github.com/denoland/deno
