@@ -27,6 +27,8 @@ O Windows SmartScreen pode avisar porque o executável não tem assinatura digit
   áudio (MP3 320, M4A, FLAC, WAV ou original), capa, playlists e álbuns.
 - **TikTok:** vídeos públicos (sem marca d'água quando o TikTok oferece), áudio e capa, por links
   completos ou encurtados (vm.tiktok.com, vt.tiktok.com).
+- **Google Drive:** arquivos e pastas compartilhados por link; cada vídeo ou música da pasta (e das
+  subpastas) vira um download na fila.
 - **SoundCloud, Instagram, X/Twitter e Facebook:** vídeos, áudio e carrosséis públicos; fotos das
   publicações em resolução original e GIFs salvos como GIF animado.
 - **Spotify e Apple Music:** metadados, capas e listas de faixas (CSV/JSON). O áudio desses
@@ -86,6 +88,8 @@ Windows SmartScreen may warn you because the executable is not digitally signed:
   audio (MP3 320, M4A, FLAC, WAV or original), cover art, playlists and albums.
 - **TikTok:** public videos (without watermark when TikTok offers it), audio and cover, from full
   or short links (vm.tiktok.com, vt.tiktok.com).
+- **Google Drive:** files and folders shared by link; every video or song in the folder (and its
+  subfolders) becomes a download in the queue.
 - **SoundCloud, Instagram, X/Twitter and Facebook:** public videos, audio and carousels; post photos
   at original resolution and GIFs saved as real animated GIFs.
 - **Spotify and Apple Music:** metadata, covers and track lists (CSV/JSON). Their audio is
